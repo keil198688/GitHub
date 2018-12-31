@@ -13,5 +13,6 @@ public class LoginController {
 	@Test
 	public void shou() {
 		System.out.println("9999");
+		System.out.println("9999");
 	}
 }
